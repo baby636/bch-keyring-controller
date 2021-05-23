@@ -37,7 +37,7 @@
   "dependencies": {
     "bch-hd-keyring": "^2.0.0",
     "bip39": "^2.6.0",
-    "bluebird": "^3.5.4",
+    "bluebird": "^3.7.2",
     "browser-passworder": "^2.0.3",
     "ethereumjs-util": "^5.2.0",
     "loglevel": "^1.5.0",
