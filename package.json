@@ -26,7 +26,7 @@
   "homepage": "https://github.com/simpleledger/bch-keyring-controller#readme",
   "devDependencies": {
     "clone": "^2.1.1",
-    "eslint-plugin-mocha": "^4.11.0",
+    "eslint-plugin-mocha": "^6.3.0",
     "jsdom": "^11.12.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^5.2.0",
