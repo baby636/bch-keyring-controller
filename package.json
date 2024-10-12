@@ -39,7 +39,7 @@
     "bip39": "^2.6.0",
     "bluebird": "^3.5.4",
     "browser-passworder": "^2.0.3",
-    "ethereumjs-util": "^5.2.0",
+    "ethereumjs-util": "^5.2.1",
     "loglevel": "^1.5.0",
     "obs-store": "^2.4.1",
     "promise-filter": "^1.1.0"
