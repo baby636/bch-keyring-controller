@@ -41,7 +41,7 @@
     "browser-passworder": "^2.0.3",
     "ethereumjs-util": "^5.2.0",
     "loglevel": "^1.5.0",
-    "obs-store": "^2.4.1",
+    "obs-store": "^4.0.0",
     "promise-filter": "^1.1.0"
   }
 }
